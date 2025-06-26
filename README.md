@@ -6,7 +6,7 @@
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     
 </head>
-<body class="min-h-screen bg-gradient-to-br from-purple-600 to-indigo-800 flex items-center justify-center p-4">
+<body>
     <div class="bg-white p-8 rounded-2xl shadow-xl max-w-2xl w-full">
         <h1 class="text-3xl font-bold text-center text-gray-800 mb-6">URL Shortener</h1>
         <div class="mb-8 p-6 bg-gray-50 rounded-xl shadow-inner">
